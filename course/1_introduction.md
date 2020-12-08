@@ -2,7 +2,7 @@
 
 ## Goal
 
-Start with Azure without reading, to find out if you like it or not. You use the free Microsoft resources.
+Start with Azure without reading, to find out if you like it or not. You use the free Microsoft resources. 
 
 ## Steps
 
