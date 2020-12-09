@@ -18,6 +18,7 @@ Hint:
 
 The exam:
 - Watch Tim Warner's video: https://www.youtube.com/watch?v=myf6r5nulj0 to avoid some mistakes.
+- Alternative: https://www.youtube.com/watch?v=j2E7w_EMUGw (shorter)
 
 The last thing
 - Every day I add one or two tasks.
