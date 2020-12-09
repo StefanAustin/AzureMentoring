@@ -17,6 +17,8 @@ Start with Azure without reading, to find out if you like it or not. You use the
 - Visit the official MS learn webpage: https://docs.microsoft.com/
 - Here you can find the courses: https://docs.microsoft.com/en-us/learn/certifications/browse/?products=azure&type=role-based
 - I give you some links and you can start (see 2_theBeginning)
+- Additional material https://github.com/MicrosoftLearning/AZ-900T0x-MicrosoftAzureFundamentals
+- Official walkthoughs https://microsoftlearning.github.io/AZ-900T0x-MicrosoftAzureFundamentals/
 
 ### Some course descriptions:
 - AZ-900 -> the introduction into cloud. This course is more for stakeholders, but if you start with IT, you should start here.
