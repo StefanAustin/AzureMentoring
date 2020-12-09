@@ -10,7 +10,7 @@ Important points to know:
 Official material:
 - https://docs.microsoft.com/en-us/learn/certifications/exams/az-104 The official learning path.
 - https://github.com/MicrosoftLearning/AZ-104-MicrosoftAzureAdministrator Additional labs and instructions
-- https://github.com/MicrosoftLearning/Lab-Demo-Recordings/blob/master/AZ-104.md Lab recordings and demos
+- https://github.com/MicrosoftLearning/Lab-Demo-Recordings/blob/master/AZ-104.md Lab recordings (video lessons) and demos
 
 Hint:
 - You do not need to pay money for a course. Microsoft offers everything (exept the certification) for free.
