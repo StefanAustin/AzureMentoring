@@ -5,7 +5,7 @@ I use OpenSuse therefore I have to install it with: https://docs.microsoft.com/e
 
 The az login command will open a browser window. If you have multipe browsers, you can copy the link approval link to a diffrent browser.
 
-## recommendations
+## Recommendations
 - This is a 4 hour lab, you have a lot of time to play around.
 - Do not rush, you can finish the lab in 10 minutes, but your goal is knowledge!
 - You can use this lab to get the big picture and you can do a lot of bonus things for free.
@@ -20,7 +20,7 @@ https://docs.microsoft.com/en-us/learn/modules/control-azure-services-with-cli/3
 
 https://docs.microsoft.com/en-us/learn/modules/control-azure-services-with-cli/5-exercise-create-website-using-the-cli/
 
-Tasks:
+### Tasks:
 - You create a service plan. Describe what a service plan is. What is --sku FREE?
 - Open Azure Portal (https://portal.azure.com/) and log in. Describe in detail what you did via command line and where you can find these things via the portal.
 
@@ -28,6 +28,15 @@ You can look for the app service plan and the app service:
 - What it the matching value for --sku FREE? Your sandbox runs 4 hours, but how long can you have your web running per day?
 - Are these things IaaS, PaaS or SaaS?
 
-Bonus tasks:
+### Bonus tasks:
 - The resouce group allows you to use and activate Application Insights for your resources. Activate it. Discover the feature. Why is this feature very useful?
 - Try to create a working alert rule with the following setting: Scope: your webapp, Condition: CPU higher 1%, Action: send an email to your account every 5 minutes. Specify a name, create a alert rule. -> this will not work, a policy disallows it, but you can do the steps.
+
+### Advanced bonus task if you have a lot of time
+The command:
+
+az webapp deployment source config --name $AZURE_WEB_APP --resource-group $RESOURCE_GROUP --repo-url "https://github.com/Azure-Samples/php-docs-hello-world" --branch master --manual-integration
+
+uploads a github php into the cloud. 
+
+-> Upload a diffrent php website -> but I did not do it. It is just an idea.
