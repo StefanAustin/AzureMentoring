@@ -31,7 +31,7 @@ Start with Azure without reading, to find out if you like it or not. You use the
 - AZ-104 -> this is the Azure Administrator, if you have knowledge with Windows and AD, you can transfer a lot of knowledge
 - AZ-500 -> this is for security. It is a specialication.
 
-## Exam preparaition
+## Exam preparation for Pearson online (at home)
 - Official but very old: https://www.youtube.com/watch?v=RI9XxzY7ePk
 - Tim Warner https://www.youtube.com/watch?v=myf6r5nulj0
 - Short version, August 2020 https://www.youtube.com/watch?v=j2E7w_EMUGw
