@@ -3,7 +3,7 @@
 These labs are about the Azure CLI. This is a command line tool. If you pick Linux, Microsoft learn shows you the command for a Debian / Ubuntu based Linux. If you use a different type, you have to google. 
 I use OpenSuse therefore I have to install it with: https://docs.microsoft.com/en-us/cli/azure/install-azure-cli-zypper
 
-If you have multipe browsers, you can copy the link to a diffrent browser.
+The az login command will open a browser window. If you have multipe browsers, you can copy the link approval link to a diffrent browser.
 
 ## recommendations
 - This is a 4 hour lab, you have a lot of time to play around.
