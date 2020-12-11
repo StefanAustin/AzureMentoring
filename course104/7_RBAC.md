@@ -19,3 +19,6 @@ ials.
 - If you close the Instructions browser window or you click Done... The lab will close. Keep it open.
 - If you do this lab multiple times, you see multiple users. Make sure to pick the right lab user.
 - The all Services window is hidden. Click on the left top corner the icon with the three strips.
+
+Tasks:
+- What is an activity log? If you use a Windows machine, you find Event Logs. What is the difference? -> Exam relevant!
